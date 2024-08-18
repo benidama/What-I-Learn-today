@@ -1,0 +1,24 @@
+<h1> New skills, I gain everyday.</h1>
+<h3>Le 15 August 2024</h3>
+<p>
+1.Document format <br>
+2.To use learning materials from Frontend mentor <br>
+3.Box centering with <strong>100vh unit</strong> and shadow
+</p>
+<br>
+<h3>Le 16 August 2024</h3>
+<p>
+1.Creating circle with equal width and height, 50% of border-radius css property <br>
+2.To center two  or more divs
+</p>
+<br>
+<h3>Le 17 August 2024</h3>
+<p>
+To use <strong>align-self property</strong> in to center, <br>
+to move it at the end or bottom ..
+</p>
+<br>
+<h3>Le 18 August 2024</h3>
+<p>
+I have learned to use <strong>gap property</strong>
+</p>
